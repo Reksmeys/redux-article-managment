@@ -17,6 +17,7 @@ function Home(props) {
         <Card articles={props.articles} />
         <h1>Rithy Modified</h1>
         <h1>Hello Cambodia</h1>
+        <h2>Jiko</h2>
     </Container>
   )
 }
