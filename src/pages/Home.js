@@ -14,6 +14,7 @@ function Home(props) {
     <Container>
         <h1>Reksmey Modified</h1>
         <Card articles={props.articles} />
+        <h1>Rithy Modified</h1>
     </Container>
   )
 }
